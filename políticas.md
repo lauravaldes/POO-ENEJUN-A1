@@ -5,7 +5,7 @@
 #### Mtro. Benjamín R. Moreno Ortiz
 #### bmoreno@ugto.mx
 #### www.concretoons.com
-#### www.github.com/brmoreno/POO-ENEJUN-A2
+#### www.github.com/brmoreno/POO-ENEJUN-A1
 
 ¡Bienvenid@ al curso! Nuestro objetivo es aprender los conceptos de programación orientada a objetos en el contexto del arte digital y el diseño interactivo. 
 ## Asistencia
@@ -24,6 +24,6 @@ Media aritmética de las calificaciones obtenidas en los 5 proyectos en una esca
 ## Asesorías
 Lunes, Martes, Jueves y Viernes de 12:00 a 14:00 horas, en el Cubículo 243. Previa cita a bmoreno@ugto.mx para cualquier otro horario 
 ## Bibliografía
-Shiffman, D. (2008). Learning Processing: a begginer’s Guide to Programming Images, Animation and interactionc. Burlington: Morgan Kaufmann
+Shiffman, D. (2008). *Learning Processing: a begginer’s Guide to Programming Images, Animation and interaction*. Burlington: Morgan Kaufmann
 
-Shiffman, D. (2012). The nature of code . http://natureofcode.com/book/.
+Shiffman, D. (2012). *The nature of code *. http://natureofcode.com/book/.
