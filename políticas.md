@@ -1,11 +1,11 @@
 # Programación Orientada a Objetos
-#### Enero – Junio 2018
-#### Licenciatura en Artes Digitales
-#### Universidad de Guanajuato
-#### Mtro. Benjamín R. Moreno Ortiz
-#### bmoreno@ugto.mx
-#### www.concretoons.com
-#### www.github.com/brmoreno/POO-ENEJUN-A1
+**Enero – Junio 2018** // 
+**Licenciatura en Artes Digitales** //
+**Universidad de Guanajuato** //
+**Mtro. Benjamín R. Moreno Ortiz** //
+**bmoreno@ugto.mx** // 
+**www.concretoons.com** // 
+**www.github.com/brmoreno/POO-ENEJUN-A1**
 
 ¡Bienvenid@ al curso! Nuestro objetivo es aprender los conceptos de programación orientada a objetos en el contexto del arte digital y el diseño interactivo. 
 ## Asistencia
